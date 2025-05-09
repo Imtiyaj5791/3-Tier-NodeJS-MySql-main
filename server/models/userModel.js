@@ -13,4 +13,3 @@ const deleteUser = (id, callback) => {
 };
 
 module.exports = { getUsers, addUser, deleteUser };
-
